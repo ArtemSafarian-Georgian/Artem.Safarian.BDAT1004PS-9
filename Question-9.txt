@@ -1,0 +1,9 @@
+1. TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+2.IndexError: list index out of range
+
+3.ValueError: math domain error
+
+4.NameError: name 'x' is not defined
+
+5.FileNotFoundError: [Errno 2] No such file or directory.
